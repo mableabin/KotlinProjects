@@ -18,7 +18,7 @@ class FirstFragment : Fragment() {
     // This property is only valid between onCreateView and
     // onDestroyView..fdddf
 
-    //from feature branch
+    //from feature comment2
     private val binding get() = _binding!!
     //added a comment
 
